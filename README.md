@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PLAYERiv65
+- 👀 I’m interested in exploring niche and intriguing projects involving Python, C++, and mathematics.
+- 🌱 I’m currently a freshman in college, diving deep into programming and continuously enhancing my skills in Python and C++.
+- 💞️ I’m looking to collaborate on small, interesting, and challenging projects that pique my curiosity and push my problem-solving abilities.
+- 📫 How to reach me: You can email me at playeriv65@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My nickname is inspired by Excel!
